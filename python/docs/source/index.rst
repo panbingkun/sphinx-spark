@@ -39,8 +39,6 @@ Pandas API on Spark aims to make the transition from pandas to Spark easy but
 if you are new to Spark or deciding which API to use, we recommend using PySpark
 (see :ref:`Spark SQL and DataFrames <Index Page - Spark SQL and DataFrames>`).
 
-- :ref:`Pandas API on Spark Reference</reference/pyspark.pandas/index.rst>`
-
 .. toctree::
     :maxdepth: 2
     :hidden:
