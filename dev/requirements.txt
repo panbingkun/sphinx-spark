@@ -1,0 +1,10 @@
+# Documentation (Python)
+pydata_sphinx_theme
+nbsphinx
+numpydoc
+jinja2==3.1.2
+sphinx<3.1.0
+sphinx-plotly-directive
+docutils==0.20.1
+# See SPARK-38279.
+markupsafe==2.0.1
